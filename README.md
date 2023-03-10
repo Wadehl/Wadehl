@@ -1,13 +1,13 @@
-### hey there 
+### hey there! 🕶️                                                                   
 
 
 <br />
 
 Hi, I'm Kevin Kwok, a passionate self-taught full stack web developer and a freelance software engineer from China.
 
-<img align="right" alt="GIF" src="https://s2.loli.net/2023/03/02/78Ceb4wjWnIiAY1.png" width="483" height="500" />
+<img align="right" alt="GIF" src="https://s2.loli.net/2023/03/02/78Ceb4wjWnIiAY1.png" width="290" height="300" />
 
-**languages and tools:**  
+👾 **languages and tools:**  
 
 - **Frontend Part:** 
 <code><img style="margin-left: 1rem;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
