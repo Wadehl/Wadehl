@@ -1,9 +1,9 @@
-### hey there! 🕶️                                                                   
+### hey there! 🎶🎶🎶                                                                
 
 
 <br />
 
-Hi, I'm Kevin Kwok, a passionate self-taught full stack web developer and a freelance software engineer from China.
+Hi, I'm ==Kevin Kwok==, a passionate self-taught full stack web developer and a freelance software engineer from China.
 
 <img align="right" alt="GIF" src="https://s2.loli.net/2023/03/02/78Ceb4wjWnIiAY1.png" width="290" height="300" />
 
@@ -51,6 +51,13 @@ GitIgnore file   1 min           -------------------------   00.12 %
 
 <!--END_SECTION:waka-->
 
+🤯 **Currently Working: **
+- Uavfly Backstage
+- Uavfly Miniprogram
+
+💻 **Future Study Plans**
+<code><img style="margin-left: 1rem;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 **
 <!---
