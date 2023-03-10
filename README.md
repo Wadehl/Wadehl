@@ -3,7 +3,7 @@
 
 <br />
 
-Hi, I'm ==Kevin Kwok==, a passionate self-taught full stack web developer and a freelance software engineer from China.
+Hi, I'm [Kevin Kwok](dayswithvenki.top), a passionate self-taught full stack web developer and a freelance software engineer from China 😀.
 
 <img align="right" alt="GIF" src="https://s2.loli.net/2023/03/02/78Ceb4wjWnIiAY1.png" width="290" height="300" />
 
