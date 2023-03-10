@@ -51,7 +51,7 @@ GitIgnore file   1 min           -------------------------   00.12 %
 
 <!--END_SECTION:waka-->
 
-🤯 **Currently Working: **
+🤯 **Currently Working:**
 - Uavfly Backstage
 - Uavfly Miniprogram
 
@@ -59,7 +59,6 @@ GitIgnore file   1 min           -------------------------   00.12 %
 <code><img style="margin-left: 1rem;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
-**
 <!---
 Wadehl/Wadehl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
