@@ -5,8 +5,7 @@
 
 hi, i'm Kevin Kwok, a passionate self-taught full stack web developer and a freelance software engineer from China.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
-
+<img align="right" alt="GIF" src="https://s2.loli.net/2023/03/02/78Ceb4wjWnIiAY1.png" width="400" height="320" />
 
 **languages and tools:**  
 
