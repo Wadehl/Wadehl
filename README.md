@@ -27,7 +27,7 @@ Hi, I'm [Kevin Kwok](dayswithvenki.top), a passionate self-taught full stack web
 
 <br><br>
 
-📊 **this week i spent my time on:**
+📊 **these days I spent my time on:**
 
 <!--START_SECTION:waka-->
 
@@ -49,7 +49,7 @@ Other            37 mins         🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱�
 
 <!--END_SECTION:waka-->
 
-🤯 **Currently Working:**
+🤯 **Currently Working On:**
 - Uavfly Backstage
 - Uavfly Miniprogram
 
