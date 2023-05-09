@@ -32,7 +32,7 @@ Hi, I'm [Kevin Kwok](tech.dayswithvenki.top), a passionate self-taught full stac
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2023 - To: 06 May 2023
+From: 01 March 2023 - To: 07 May 2023
 
 Total Time: 226 hrs 21 mins
 
