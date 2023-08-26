@@ -10,7 +10,8 @@
   },
   "avatar": {
     "src": "https://s2.loli.net/2023/08/26/ydclOZ3kEnhW8M5.jpg",
-    "hidden": false
+    "hidden": false,
+    "shape": "square"
   },
   "profile": {
     "name": "郭俊威",
@@ -69,7 +70,7 @@
       "project_role": "开发负责人",
       "project_time": "2023.01 - 2023.07",
       "project_desc": "项目主要包括智慧物联信息管理系统（Web端），“超级飞侠”（微信小程序端）与“小飞侠Chat”AI助手三部分",
-      "project_content": "1. 使用Echarts实现数据大屏，搭配上云API将路径优化算法得出的WPML文件导入无人机设备，使用RTMP+Websocket将无人机的镜头视频流以及状态信息实时展示至管理员，并使用JWT对用户鉴权识别。\n 2. 完成小程序基础功能的开发，并且基于OpenAI的API与Websocket长连接实现了自定义的AI助手的封装，支持历史对话查看等功能。\n 3.完成项目的后端开发，并且实现了项目的上云部署与维护"
+      "project_content": "\n1. 使用Echarts实现数据大屏，搭配上云API将路径优化算法得出的WPML文件导入无人机设备，使用RTMP+Websocket将无人机的镜头视频流以及状态信息实时展示至管理员，并使用JWT对用户鉴权识别。\n 2. 完成小程序基础功能的开发，并且基于OpenAI的API与Websocket长连接实现了自定义的AI助手的封装，支持历史对话查看等功能。\n 3.完成项目的后端开发，并且实现了项目的上云部署与维护"
     }
   ],
   "workList": [],
