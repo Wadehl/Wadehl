@@ -8,6 +8,7 @@ Hi, I'm [Kevin Kwok](tech.dayswithvenki.top), a passionate self-taught full stac
 <!-- <img align="right" alt="GIF" src="https://s2.loli.net/2023/03/02/78Ceb4wjWnIiAY1.png" width="290" height="300" /> -->
 
 👾 **languages and tools:**  
+
 <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,electron,django,nodejs,mysql,mongodb&theme=light" alt="skills" />
 
 <br><br>
