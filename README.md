@@ -11,8 +11,6 @@ Hi, I'm [Kevin Kwok](tech.dayswithvenki.top), a passionate self-taught full stac
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,electron,django,nodejs,mysql,mongodb&theme=light" alt="skills" />
 
-<br>
-
 📊 **these days I spent my time on:**
 
 <!--START_SECTION:waka-->
