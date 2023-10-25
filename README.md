@@ -37,10 +37,7 @@ Go               11 hrs 10 mins  😐🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱�
 <!--END_SECTION:waka-->
 
 🤯 **Currently Working On:**
-- Mac Notifications In Windows
-
-💻 **Future Study Plans**
-<code><img style="margin-left: 1rem;" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- Pose Studio
 
 <!---
 Wadehl/Wadehl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
