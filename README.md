@@ -16,7 +16,7 @@ Hi, I'm [Kevin Kwok](https://tech.dayswithvenki.top), a passionate self-taught f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2023 - To: 27 December 2023
+From: 01 March 2023 - To: 28 December 2023
 
 Total Time: 1,058 hrs 54 mins
 
