@@ -9,7 +9,7 @@ Hi, I'm [Kevin Kwok](https://tech.dayswithvenki.top), a passionate self-taught f
 
 👾 **languages and tools:**  
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,electron,django,nodejs,mysql,mongodb&theme=light" alt="skills" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,electron,flask,django,nodejs,mysql,mongodb&theme=light" alt="skills" />
 
 📊 **these days I spent my time on:**
 
