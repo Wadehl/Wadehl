@@ -1,7 +1,4 @@
-### hey there! 🎶🎶🎶                                                                
-
-
-<br />
+### hey there! 😎🙌😎                                                              
 
 Hi, I'm [Kevin Kwok](https://tech.dayswithvenki.top), a passionate self-taught full stack web developer and a freelance software engineer from China 😀.
 
