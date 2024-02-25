@@ -31,10 +31,10 @@ Go                 11 hrs 10 mins  🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱�
 
 <!--END_SECTION:waka-->
 
-🤯 **Currently Working On:**
+<!-- 🤯 **Currently Working On:**
 - Pose Studio
 - My Graduation Project
-
+-->
 <!---
 Wadehl/Wadehl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
