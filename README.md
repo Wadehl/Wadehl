@@ -1,6 +1,8 @@
-### hey there! 😎🙌😎                                                              
+### hello there! 😎🙌😎                                                              
 
-Hi, I'm [Kevin Kwok](https://tech.dayswithvenki.top), a passionate self-taught full stack web developer and a freelance software engineer from China 😀.
+I'm [Kevin Kwok](https://tech.dayswithvenki.top).
+
+<img align="right" src="https://s2.loli.net/2024/04/05/vmS9d2wqfPZioKV.webp" alt="wusaqi" width="260" height="260" />
 
 <!-- <img align="right" alt="GIF" src="https://s2.loli.net/2023/03/02/78Ceb4wjWnIiAY1.png" width="290" height="300" /> -->
 
