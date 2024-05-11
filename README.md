@@ -15,7 +15,7 @@ I'm [Kevin Kwok](https://tech.dayswithvenki.top).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2023 - To: 09 May 2024
+From: 01 March 2023 - To: 10 May 2024
 
 Total Time: 1,548 hrs 48 mins
 
