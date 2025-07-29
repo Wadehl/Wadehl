@@ -27,10 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadehl&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="49%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wadehl&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
