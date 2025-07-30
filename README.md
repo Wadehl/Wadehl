@@ -61,7 +61,7 @@ Java                       19 hrs 16 mins  🥱🥱🥱🥱🥱🥱🥱🥱🥱�
 <!-- https://github.com/DenverCoder1/github-readme-stats -->
 
 <a href="https://github.com/Wadehl/github-readme-stats"><img alt="Wadehl's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Wadehl&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/Wadehl/github-readme-stats"><img alt="Wadehl's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wadehl&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/Wadehl/github-readme-stats"><img alt="Wadehl's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wadehl&langs_count=8&layout=compact&theme=react&hide_border=true&hide=html&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
