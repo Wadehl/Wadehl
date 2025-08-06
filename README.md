@@ -43,7 +43,7 @@ Java                       19 hrs 16 mins  🥱🥱🥱🥱🥱🥱🥱🥱🥱�
 
 <!--END_SECTION:waka-->
 
-<summary><h2>📊 Stats and Activity</h2></summary>
+## 📊 Stats and Activity
 
 <h3>🔥 Streak Stats</h3>
 
