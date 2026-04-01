@@ -25,12 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2023 - To: 30 March 2026
+From: 01 March 2023 - To: 31 March 2026
 
-Total Time: 3,451 hrs 16 mins
+Total Time: 3,451 hrs 21 mins
 
-Vue.js                     1,649 hrs 12 mins     😁😁😁😁😁😁😁😁😁😁😁😁🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   47.79 %
-TypeScript                 447 hrs 55 mins       😁😁😁🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   12.98 %
+Vue.js                     1,649 hrs 16 mins     😁😁😁😁😁😁😁😁😁😁😁😁🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   47.79 %
+TypeScript                 447 hrs 57 mins       😁😁😁🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   12.98 %
 JavaScript                 326 hrs 47 mins       😁😁😐🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   09.47 %
 Other                      302 hrs 23 mins       😁😁🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   08.76 %
 Python                     288 hrs 3 mins        😁😁🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   08.35 %
