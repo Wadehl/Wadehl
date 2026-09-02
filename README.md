@@ -25,9 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2023 - To: 31 August 2026
+From: 01 March 2023 - To: 01 September 2026
 
-Total Time: 3,815 hrs 32 mins
+Total Time: 3,815 hrs 37 mins
 
 Vue.js                     1,636 hrs 14 mins     😁😁😁😁😁😁😁😁😁😁😐🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   42.88 %
 TypeScript                 525 hrs 9 mins        😁😁😁😐🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   13.76 %
@@ -35,7 +35,7 @@ JavaScript                 340 hrs 54 mins       😁😁🥱🥱🥱🥱🥱�
 Other                      318 hrs 49 mins       😁😁🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   08.36 %
 Python                     296 hrs 38 mins       😁😁🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   07.77 %
 Vue                        150 hrs 19 mins       😁🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   03.94 %
-Markdown                   100 hrs 29 mins       😐🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   02.63 %
+Markdown                   100 hrs 35 mins       😐🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   02.64 %
 SCSS                       87 hrs 37 mins        😐🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   02.30 %
 JSON                       83 hrs 20 mins        😐🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   02.18 %
 HTML                       55 hrs 20 mins        😐🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱🥱   01.45 %
