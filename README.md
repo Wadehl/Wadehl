@@ -8,12 +8,6 @@
 </div>
 <br/>
 
-## 🚀 About Me
-
-<div align="center">
-  <p>I'm <a href="https://tech.dayswithvenki.top">Kevin Kwok</a>, a passionate developer who loves building innovative solutions with modern technologies.</p>
-</div>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
